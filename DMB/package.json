@@ -1,0 +1,9 @@
+{
+    "name": "com.gavinray.DBM",
+    "version": "0.0.1",
+    "displayName": "DBM (DataBase Manager)",
+    "description": "Used to access the current database and manage the data within it.",
+    "unity": "2021.3.17f1",
+    "dependencies": {}
+  }
+  
